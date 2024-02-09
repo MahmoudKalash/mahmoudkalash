@@ -1,0 +1,237 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+  <!--<meta name=viewport content=“width=800”>-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
+  <style type="text/css">
+    /* Color scheme stolen from Sergey Karayev */
+  .profile_img {
+  border-radius: 50%;
+   }
+    a {
+    color: #1772d0;
+    text-decoration:none;
+    }
+    a:focus, a:hover {
+    color: #f09228;
+    text-decoration:none;
+    }
+    body,td,th,tr,p,a {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 16px
+    }
+    strong {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 16px;
+    }
+    heading {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 24px;
+    }
+    papertitle {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 700
+    }
+    name {
+    font-family: 'Lato', Verdana, Helvetica, sans-serif;
+    font-size: 34px;
+    }
+    .one
+    {
+    width: 160px;
+    height: 160px;
+    position: relative;
+    }
+    .two
+    {
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    -webkit-transition: opacity .2s ease-in-out;
+    }
+    .fade {
+     transition: opacity .2s ease-in-out;
+     -moz-transition: opacity .2s ease-in-out;
+     -webkit-transition: opacity .2s ease-in-out;
+    }
+    span.highlight {
+        background-color: #ffffd0;
+    }
+  </style>
+  <link rel="icon" type="image/png" href="seal_icon.png">
+  <title>Mahmoud Kalash</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+  <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+  <table width="1100" border="0" align="center" cellspacing="0" cellpadding="0">
+    <tr>
+    <td>
+      <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+      <tr>
+        <td width="67%" valign="middle">
+        <p align="center">
+          <name>Mahmoud Kalash</name>
+        </p>
+        <p >I am a second year MSc student at the <a href="http://umanitoba.ca/">University of Manitoba</a> working with <a href="http://www.cs.umanitoba.ca/~bruce/">Dr. Neil Bruce</a> in <a href="http://www.cs.umanitoba.ca/~vision/">Computer Vision Lab</a>. I'm mainly interested in deep learning, especially applied to computer vision, with a focus on semantic analysis and understanding of images. I aim to find efficient solutions for problems that are grounded in applications such as Autonomous Driving. 
+        </p>
+ <!--       <p align="justify"> I received my MSc in <a href="http://cs.umanitoba.ca/">Computer Science</a> from the <a href="http://%umanitoba.ca/">University of Manitoba</a> in 2017, where I was advised 	by <a href="http://www.cs.umanitoba.ca/~ywang/">Dr. Yang Wang</a> and <a href="http://www.cs.umanitoba.ca/~bruce/">Dr. Neil Bruce</a> in the <a href="http://www.cs.umanitoba.ca/~vision/">Computer Vision Lab</a>. Previously, I did my bachelors 	 in Computer Science and Engineering at <a href="http://www.northsouth.edu/">North South University</a>.
+-->
+	<p ><strong>Research Interests</strong>: Deep Learning, Computer Vision, Visual Recognition, Dense Image Labeling.<br />
+        </p>
+        <p align=center>
+          <a href="mailto:kalashm@cs.umanitoba.ca">Email</a> &nbsp/&nbsp
+         <!--   <a href="AmirulIslam-CV.pdf">CV</a> &nbsp/&nbsp -->
+          <a href="https://scholar.google.ca/citations?user=ei1UY8gAAAAJ&hl=en">Google Scholar</a> &nbsp/&nbsp
+          <a href="https://www.linkedin.com/in/mahmoud-kalash-7045258a/"> LinkedIn </a> 
+	 <!-- <a href="https://github.com/islamamirul"> GitHub </a> -->
+</a>
+ 
+	  
+        </p>
+        </td>
+        <td width="33%" >
+        <img class="profile_img" src="profile.jpg" alt="Avatar" height="200" width="275" valign="bottom">
+        </td>
+      </tr>
+      </table>
+
+      <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+      <tr>
+        <td width="100%" valign="middle">
+	  <font size="5"><b>Recent News</b></font>
+              <ul>
+	<li><sup><font color="red"><b>NEW</b></font></sup> <b>03/2018</b>: 1 paper submitted to ECCV 2018!
+	<li><sup><font color="red"><b>NEW</b></font></sup> <b>01/2018</b>: 1 paper submitted to ETRA 2018!
+	<li><sup><font color="red"></font></sup> <b>02/2018</b>: 1 paper accepted to CVPR 2018!
+	<li><sup><font color="red"></font></sup> <b>06/2017</b>: 1 paper accepted to BMVC 2017!
+        <li><sup><font color="red"></font></sup> <b>03/2017</b>: I received the University of Manitoba Graduate Fellowship (UMGF)!</li>
+        <!--<li><b>08/2016</b>: I have a paper accepted to Image and Vision Computing!</li>-->
+        <!--<li><b>07/2016</b>: I have a paper accepted to BMVC 2016!</li>-->
+        <!--<li><b>08/2015</b>: I'll be a visiting research student with Prof. Greg Mori at Simon Fraser University in 2015-2016!</li>-->        
+        <!--<li><b>03/2015</b>: I have a paper accepted to CVPR 2015!</li>-->       
+    </ul>
+        </td>
+      </tr>
+      </table>
+
+      <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+      <tr>
+        <td width="100%" valign="middle">
+	  <font size="5"><b>Research</b></font>
+          
+        </td>
+      </tr>
+      </table>
+
+  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+	<tr onmouseout="aperture_stop()" onmouseover="aperture_start()" >
+      <td width="28%" >
+        <div class="one">
+        <div class="two" id = 'aperture_image'><img src='cvpr2018.png' height="140" width="240"></div>
+        <img src='cvpr2018.png' height="140" width="240">
+        </div>
+        <script type="text/javascript">
+        function aperture_start() {
+        document.getElementById('aperture_image').style.opacity = "1";
+        }
+        function aperture_stop() {
+        document.getElementById('aperture_image').style.opacity = "0";
+        }
+        aperture_stop()
+        </script>
+      </td>
+      <td valign="top" width="80%">
+	  <img src="./index.gif" alt="[NEW]" width="7%" style="border-style: none">
+	  <a href="">
+            <papertitle>Revisiting Salient Object Detection: Simultaneous Detection, Ranking, and Subitizing of Multiple Salient Objects</papertitle>
+	  </a>
+	  <br>
+	   <a href="">Md Amirul Islam*</a>,
+	  <strong>Mahmoud Kalash*</strong>,
+	  <a href="http://www.cs.umanitoba.ca/~bruce/">Neil D. B. Bruce</a>
+	   <br>
+	   [* <em>indicates equal contribution</em>] <br>
+        <em>IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2018 (<strong><span style="color:#0000ff">Oral Presentation</span></strong>) <br>
+	[<a href='https://arxiv.org/pdf/1803.05082.pdf'>arxiv</a>] &nbsp;
+     <!--   <p > We have presented a neural framework for detecting, ranking, and subitizing multiple salient objects that introduces a stack refinement mechanism to achieve better performance</p>
+      </td> -->
+    </tr>
+
+
+<tr onmouseout="aperture_stop()" onmouseover="aperture_start()" >
+      <td width="25%">
+        <div class="one">
+        <div class="two" id = 'aperture_image'><img src='bmvc2017.png' height="140" width="240"></div>
+        <img src='bmvc2017.png' height="140" width="240">
+        </div>
+        <script type="text/javascript">
+        function aperture_start() {
+        document.getElementById('aperture_image').style.opacity = "1";
+        }
+        function aperture_stop() {
+        document.getElementById('aperture_image').style.opacity = "0";
+        }
+        aperture_stop()
+        </script>
+      </td>
+      <td valign="top" width="75%">
+	  <a href="https://www.semanticscholar.org/paper/Salient-Object-Detection-using-a-Context-Aware-Ref-Islam-Kalash/6ea95eac428a9cbdffe181aff35ed75104f5d06d">
+            <papertitle>Salient Object Detection using a Context-Aware Refinement Network</papertitle>
+	  </a>
+	  <br>
+	   <a href="">Md Amirul Islam</a>,
+	  <strong>Mahmoud Kalash</strong>,
+          <a href="http://www.cs.umanitoba.ca/~mrochan/">Mrigank Rochan</a>,
+	  <a href="http://www.cs.umanitoba.ca/~bruce/">Neil D. B. Bruce</a>,
+	  <a href="http://www.cs.umanitoba.ca/~ywang/">Yang Wang</a>
+	   <br>
+        <em>British Machine Vision Conference (<strong>BMVC</strong>)</em>, 2017 <br>
+	[<a href = "http://www.cs.umanitoba.ca/~amirul/projects/bmvc2017_seg/bmvc2017.html">project page</a>] &nbsp;
+        [<a href='http://www.cs.umanitoba.ca/~ywang/papers/bmvc17_detection.pdf'>pdf</a>] &nbsp;
+	[<a href='https://www.dropbox.com/s/dodrgirf16cx37j/BMVC%202017_salient_detect.pdf?dl=0'>poster</a>] &nbsp;
+	
+  <!--      <p > We propose an end-to-end encoder-decoder network that employs recurrent refinement to generate a saliency map in a coarse-to-fine fashion by incorporating finer details in the detection framework.
+</p> -->
+      </td>
+</tr>
+
+
+      </table>
+
+      <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+      <tr>
+        <td>
+        <br>
+        <p align="right">
+          <font size="2">
+          <a href="https://jonbarron.info/">Website Source</a>
+       
+	    </font>
+        </p>
+        </td>
+      </tr>
+      </table>
+
+      
+      <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+          document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+      </script> <script type="text/javascript">
+      try {
+          var pageTracker = _gat._getTracker("UA-7580334-1");
+          pageTracker._trackPageview();
+          } catch(err) {}
+      </script>
+    </td>
+    </tr>
+  </table>
+  </body>
+</html>
+
